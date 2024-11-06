@@ -21,6 +21,7 @@
 
 [The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 [Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+[images_cv_moterbike](https://images.cv/dataset/motorbike-image-classification-dataset) Don't Resize!
 
 ## 선택 이유
 
@@ -34,7 +35,4 @@
 4. 성능 평가 후 최적 모델 선정
 5. 최적화
 6. 프로젝트 발표 자료 제작, 성능 지표, 시각화 자료 등 추가
-
-
-
 
