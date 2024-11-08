@@ -19,9 +19,10 @@
 
 ### 데이터셋
 
-[The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-[Stanford Cars Dataset](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
-[images_cv_moterbike](https://images.cv/dataset/motorbike-image-classification-dataset) 128 * 128 size
+#### [AI HUB 자동차 차종/연식/번호판 인식용 영상](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=172)
+
+> 상기 데이터셋은 한국지능정보사회진흥원의 사업결과이며
+> 해당 데이터 이용을 밝힘
 
 ## 선택 이유
 
@@ -35,3 +36,4 @@
 4. 성능 평가 후 최적 모델 선정
 5. 최적화
 6. 프로젝트 발표 자료 제작, 성능 지표, 시각화 자료 등 추가
+
