@@ -21,7 +21,7 @@
 
 #### [AI HUB 자동차 차종/연식/번호판 인식용 영상](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=172)
 
-> 상기 데이터셋은 한국지능정보사회진흥원의 사업결과이며
+> 상기 데이터셋은 한국지능정보사회진흥원의 사업결과이며<br>
 > 해당 데이터 이용을 밝힘
 
 ## 선택 이유
