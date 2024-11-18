@@ -18,6 +18,9 @@ my_*
 *.pkl
 *.pickle
 /Dataset
+/Dataset4
 /Pretrained
 /Jupiter/test*
 /Jupiter/test*
+installed_packages.txt
+/keras-yolo3
