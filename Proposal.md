@@ -52,8 +52,8 @@ class_indices = {'BUS': 0, 'Bike': 1, 'HatchBack': 2, 'SUV': 3, 'Sedan': 4, 'Tru
 
 ## **!! 위 순서랑 같아야 주피터 노트북에서 라벨이 맞게 붙습니다 !!**
 
-**정렬 옵션에 따라 BUS / Bike 위치가 바뀔 수 있습니다**
-순서가 다르면 class_indices 의 위치를 바꿔주시면 레이블이 맞게 붙습니다
+**정렬 옵션에 따라 BUS / Bike 위치가 바뀔 수 있습니다** <br>
+순서가 다르면 class_indices 의 위치를 바꿔주시면 레이블이 맞게 붙습니다
 
 
 
