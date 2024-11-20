@@ -1,5 +1,11 @@
 # Noise / *도로 통행량 기반 소음 정도 시각화*
+🛣️'s <br>
+🚌 BUS 🚌 <br>
+🏍️ Bike 🏍️ <br>
+🚗 Common 🚙 <br>
+🚚 Truck 🚚 <br>
 
+💻🤔(road noise calculation) -> Noise Level!
 ## 팀원 및 역할
 
 - 1945122 최성주 (팀장)
@@ -24,6 +30,31 @@
 > 상기 데이터셋은 한국지능정보사회진흥원의 사업결과이며<br>
 > 해당 데이터 이용을 밝힘
 
+## :fire::fire: 4 Class ver :fire::fire: Current Main
+:blue_car: Hatchback, Sedan, SUV, Van <br>
+차를 잘 모르는 사람들도 구별하기 힘들어 <br>
+모델이 분류하기 어려움 <br>
+:arrow_down:<br>
+**Common**으로 통합
+```
+Dataset4
+├── Test
+│   ├──  BUS
+│   ├──  Bike
+│   ├──  Common
+│   └──  Truck
+└──  Train
+    ├──  BUS
+    ├──  Bike
+    ├──  Common
+    └──  Truck
+```
+
+```
+class_indices = {'BUS': 0, 'Bike': 1, 'Common': 2, 'Truck': 3}
+```
+
+## 8 Class ver
 ```
 Dataset
 ├── Test
@@ -50,12 +81,10 @@ Dataset
 class_indices = {'BUS': 0, 'Bike': 1, 'HatchBack': 2, 'SUV': 3, 'Sedan': 4, 'Truck': 5, 'Truck2': 6, 'Van': 7}
 ```
 
-## **!! 위 순서랑 같아야 주피터 노트북에서 라벨이 맞게 붙습니다 !!**
+## **:exclamation::exclamation: 위 순서랑 같아야 주피터 노트북에서 라벨이 맞게 붙습니다 :exclamation::exclamation:**
 
 **정렬 옵션에 따라 BUS / Bike 위치가 바뀔 수 있습니다** <br>
 순서가 다르면 class_indices 의 위치를 바꿔주시면 레이블이 맞게 붙습니다
-
-
 
 ## 선택 이유
 
