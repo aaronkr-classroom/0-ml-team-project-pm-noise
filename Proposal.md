@@ -34,8 +34,12 @@
 :blue_car: Hatchback, Sedan, SUV, Van <br>
 차를 잘 모르는 사람들도 구별하기 힘들어 <br>
 모델이 분류하기 어려움 <br>
+
+<img src="https://i0.wp.com/www.proadvisecar.com/wp-content/uploads/2018/05/Three_body_styles_with_pillars_and_boxes-Copy-3.png?w=1041&ssl=1" alt="sedan" width="400"/>
+<img src="https://i0.wp.com/www.proadvisecar.com/wp-content/uploads/2018/05/Three_body_styles_with_pillars_and_boxes-Copy-2.png?w=1041&ssl=1" alt="hatchback" width="400"/>
 :arrow_down:<br>
 **Common**으로 통합
+
 ```
 Dataset4
 ├── Test
