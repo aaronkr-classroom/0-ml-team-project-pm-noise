@@ -17,7 +17,7 @@ my_*
 /datasets
 *.pkl
 *.pickle
-/Dataset
+/Dataset*
 /Dataset4
 /Pretrained
 /Jupiter/test*
