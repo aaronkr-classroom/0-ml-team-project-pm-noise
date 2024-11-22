@@ -29,3 +29,4 @@ installed_packages.txt
 /.conda
 /Tester/test_img*
 /Tester/model_solo*
+__MA*
