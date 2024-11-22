@@ -24,7 +24,8 @@ my_*
 /Jupiter/test*
 installed_packages.txt
 /keras-yolo3
-/tester
 /Jupiter/y*
 *playground*
 /.conda
+/Tester/test_img*
+/Tester/model_solo*
