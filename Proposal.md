@@ -41,7 +41,7 @@
 **Common**으로 통합
 
 ```
-Dataset4
+Dataset_4_class
 ├── Test
 │   ├──  BUS
 │   ├──  Bike
@@ -60,7 +60,7 @@ class_indices = {'BUS': 0, 'Bike': 1, 'Common': 2, 'Truck': 3}
 
 ## 8 Class ver
 ```
-Dataset
+Dataset_8_class
 ├── Test
 │   ├──  BUS
 │   ├──  Bike
@@ -89,6 +89,28 @@ class_indices = {'BUS': 0, 'Bike': 1, 'HatchBack': 2, 'SUV': 3, 'Sedan': 4, 'Tru
 
 **정렬 옵션에 따라 BUS / Bike 위치가 바뀔 수 있습니다** <br>
 순서가 다르면 class_indices 의 위치를 바꿔주시면 레이블이 맞게 붙습니다
+
+```
+.
+├── Dataset_4_class
+│  ├── Test
+│  └── Train
+├── Dataset_8_class
+│  ├── Test
+│  └── Train
+├── Jupiter
+│  ├── cnn_4_class
+│  ├── cnn_8_class
+│  ├── DenseNet121
+│  ├── EfficientNetB0
+│  ├── MobileNet
+│  ├── noise_calculater
+│  └── ResNet50
+├── LICENSE
+├── Proposal.md
+├── README.md
+└── requirements.txt
+```
 
 ## 선택 이유
 
