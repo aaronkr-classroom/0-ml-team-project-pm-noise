@@ -20,11 +20,11 @@ my_*
 /Dataset*
 /Dataset4
 /Pretrained
-/Jupiter/test*
-/Jupiter/test*
+/Jupyter/test*
+/Jupyter/test*
 installed_packages.txt
 /keras-yolo3
-/Jupiter/y*
+/Jupyter/y*
 *playground*
 /.conda
 /Tester/test_img*
