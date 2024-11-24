@@ -21,7 +21,7 @@ my_*
 /Dataset4
 /Pretrained
 /Jupyter/test*
-/Jupyter/test*
+/Tester/yolo_cropped_images/
 installed_packages.txt
 /keras-yolo3
 /Jupyter/y*
@@ -30,3 +30,4 @@ installed_packages.txt
 /Tester/test_img*
 /Tester/model_solo*
 __MA*
+DensNet121.h5
