@@ -30,4 +30,5 @@ installed_packages.txt
 /Tester/test_img*
 /Tester/model_solo*
 __MA*
-DensNet121.h5
+DenseNet121.h5
+ResNet50.h5
