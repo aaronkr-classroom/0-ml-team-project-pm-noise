@@ -1,3 +1,9 @@
+"""
+frame마다 탐지되는 차량들에 대해서 소음 합성 연산을 합니다.
+3600(1시간) frame마다 평균 데시벨 구하고, 00시~24시 그래프를 그립니다.
+"""
+
+
 import matplotlib.pyplot as plt
 from noise_calculator import NoiseCalculator
 
