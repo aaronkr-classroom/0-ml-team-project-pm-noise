@@ -75,7 +75,7 @@ for result in results:
     predicted_class = result['predicted_class']  # 예측된 클래스 이름
     detected_vehicles[predicted_class] += 1      # 해당 클래스의 개수를 증가
 
-# NoiseCalculator를 사용해 총 소음 계산
+# 총 소음 계산
 total_noise_level = noise_calculator.calculate_total_noise(detected_vehicles)
 
 # 결과 출력
