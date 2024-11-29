@@ -32,4 +32,5 @@ installed_packages.txt
 /Tester/*.pt
 __MA*
 DenseNet121.h5
-ResNet50.h5
+ResNet*.h5
+DenseNet*.h5
