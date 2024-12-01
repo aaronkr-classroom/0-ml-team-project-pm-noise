@@ -8,7 +8,7 @@ from tensorflow.keras.applications.mobilenet import preprocess_input
 import numpy as np
 
 # 모델 로드
-model = load_model('DenseNet121.h5')
+model = load_model('../DenseNet/DenseNet121.h5')
 
 # 데이터 경로와 클래스 설정
 test_dir = '../../../Dataset_4_class/Test'
